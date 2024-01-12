@@ -1,2 +1,4 @@
 # ESO-Battery-Forescasting
-My take at this Kaggle competition
+My work at this Kaggle competition
+https://www.kaggle.com/competitions/eso-battery-forecasting/overview
+
